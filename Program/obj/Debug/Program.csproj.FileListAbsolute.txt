@@ -1,0 +1,5 @@
+C:\Users\didon\OneDrive\documents\visual studio 2015\Projects\Program\Program\bin\Debug\Program.exe.config
+C:\Users\didon\OneDrive\documents\visual studio 2015\Projects\Program\Program\bin\Debug\Program.exe
+C:\Users\didon\OneDrive\documents\visual studio 2015\Projects\Program\Program\bin\Debug\Program.pdb
+C:\Users\didon\OneDrive\documents\visual studio 2015\Projects\Program\Program\obj\Debug\Program.exe
+C:\Users\didon\OneDrive\documents\visual studio 2015\Projects\Program\Program\obj\Debug\Program.pdb
