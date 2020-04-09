@@ -1,2 +1,2 @@
-C:\Users\didon\OneDrive\documents\visual studio 2015\Projects\Program\Program.Installer\bin\Debug\en-us\ProgramApp-Debug-x64.msi
-C:\Users\didon\OneDrive\documents\visual studio 2015\Projects\Program\Program.Installer\bin\Debug\en-us\ProgramApp-Debug-x64.wixpdb
+C:\Users\dneno\source\repos\Program\Program.Installer\bin\Debug\en-us\ProgramApp-Debug-x64.msi
+C:\Users\dneno\source\repos\Program\Program.Installer\bin\Debug\en-us\ProgramApp-Debug-x64.wixpdb

@@ -3,3 +3,10 @@ C:\Users\didon\OneDrive\documents\visual studio 2015\Projects\Program\Program\bi
 C:\Users\didon\OneDrive\documents\visual studio 2015\Projects\Program\Program\bin\Debug\Program.pdb
 C:\Users\didon\OneDrive\documents\visual studio 2015\Projects\Program\Program\obj\Debug\Program.exe
 C:\Users\didon\OneDrive\documents\visual studio 2015\Projects\Program\Program\obj\Debug\Program.pdb
+C:\Users\dneno\source\repos\Program\Program\bin\Debug\Program.exe.config
+C:\Users\dneno\source\repos\Program\Program\bin\Debug\Program.exe
+C:\Users\dneno\source\repos\Program\Program\bin\Debug\Program.pdb
+C:\Users\dneno\source\repos\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\dneno\source\repos\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\dneno\source\repos\Program\Program\obj\Debug\Program.exe
+C:\Users\dneno\source\repos\Program\Program\obj\Debug\Program.pdb
